@@ -1,0 +1,3 @@
+Iniciar o Mongo -> abrir cmd e executar "mongod"
+para iniciar o servidor, comando no terminal dentro da pasta backend: .\node_modules\.bin\pm2 monit
+
